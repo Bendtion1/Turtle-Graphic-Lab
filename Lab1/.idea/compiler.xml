@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for Lab1-1160300324" enabled="true">
+        <sourceOutputDir name="build/generated-sources/annotations" />
+        <sourceTestOutputDir name="build/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lab1-L190201901" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lab1-L190201901" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
